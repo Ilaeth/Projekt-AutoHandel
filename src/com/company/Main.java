@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        Player player1 = new Player("Przemek", 1000000.0);
+
     }
 }
